@@ -1,0 +1,27 @@
+.header-img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #1a202c;
+    background-image: url('#######');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #e5e7eb;
+}
+.error {
+    color: red;
+}
+.custom-shadow {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.main-container {
+    background-color: rgba(31, 41, 55, 0.85);
+    border: 1px solid #4b5563;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+}

@@ -1,0 +1,2357 @@
+[
+  {
+    "name": "Lemure",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "0",
+    "xp": 10,
+    "source": "mm 76"
+  },
+  {
+    "name": "Kobold",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/8",
+    "xp": 25,
+    "source": "mm 195"
+  },
+  {
+    "name": "Manes",
+    "size": "Small",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/8",
+    "xp": 25,
+    "source": "mm 60"
+  },
+  {
+    "name": "Merfolk",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "merfolk"
+    ],
+    "alignment": "N",
+    "challenge_rating": "1/8",
+    "xp": 25,
+    "source": "mm 218"
+  },
+  {
+    "name": "Xvart",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "xvart"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/8",
+    "xp": 25,
+    "source": "motm 267, vgm 200"
+  },
+  {
+    "name": "Aarakocra",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "aarakocra"
+    ],
+    "alignment": "NG",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 12"
+  },
+  {
+    "name": "Abyssal Wretch",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mtf 136"
+  },
+  {
+    "name": "Bullywug",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "bullywug"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 35"
+  },
+  {
+    "name": "Derro",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "derro"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "motm 91, mtf 158"
+  },
+  {
+    "name": "Dretch",
+    "size": "Small",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 57"
+  },
+  {
+    "name": "Drow",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 128"
+  },
+  {
+    "name": "Goblin",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 166"
+  },
+  {
+    "name": "Grimlock",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "grimlock"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 175"
+  },
+  {
+    "name": "Grung",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "grung"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "motm 149, vgm 156"
+  },
+  {
+    "name": "Kenku",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "kenku"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 194"
+  },
+  {
+    "name": "Kobold Inventor",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "motm 164, vgm 166"
+  },
+  {
+    "name": "Kuo-toa",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 199"
+  },
+  {
+    "name": "Tortle",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "tortle"
+    ],
+    "alignment": "LG",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "motm 244, mtf 242"
+  },
+  {
+    "name": "Troglodyte",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "troglodyte"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 290"
+  },
+  {
+    "name": "Winged Kobold",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/4",
+    "xp": 50,
+    "source": "mm 195"
+  },
+  {
+    "name": "Firenewt Warrior",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "firenewt"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "motm 125, vgm 142"
+  },
+  {
+    "name": "Gnoll",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 163"
+  },
+  {
+    "name": "Gnoll Hunter",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "motm 144, vgm 154"
+  },
+  {
+    "name": "Hobgoblin",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 186"
+  },
+  {
+    "name": "Jackalwere",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 193"
+  },
+  {
+    "name": "Lizardfolk",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "alignment": "N",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 204"
+  },
+  {
+    "name": "Nupperibo",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "motm 196, mtf 168"
+  },
+  {
+    "name": "Orc",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 246"
+  },
+  {
+    "name": "Orc Nurtured One of Yurtrus",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "vgm 184"
+  },
+  {
+    "name": "Sahuagin",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 263"
+  },
+  {
+    "name": "Svirfneblin",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "gnome"
+    ],
+    "alignment": "NG",
+    "challenge_rating": "1/2",
+    "xp": 100,
+    "source": "mm 164"
+  },
+  {
+    "name": "Bugbear",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 33"
+  },
+  {
+    "name": "Duergar",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 122"
+  },
+  {
+    "name": "Duergar Soulblade",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 109, mtf 190"
+  },
+  {
+    "name": "Firenewt Warlock of Imix",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "firenewt"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 125, vgm 143"
+  },
+  {
+    "name": "Gnoll Flesh Gnawer",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 144, vgm 154"
+  },
+  {
+    "name": "Goblin Boss",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 166"
+  },
+  {
+    "name": "Grung Wildling",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "grung"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 150, vgm 157"
+  },
+  {
+    "name": "Imp",
+    "size": "Tiny",
+    "type": "Fiend",
+    "tags": [
+      "devil",
+      " shapechanger"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 76"
+  },
+  {
+    "name": "Kobold Dragonshield",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 163, vgm 165"
+  },
+  {
+    "name": "Kobold Scale Sorcerer",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 165, vgm 167"
+  },
+  {
+    "name": "Kuo-toa Whip",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 200"
+  },
+  {
+    "name": "Maw Demon",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 176, vgm 137"
+  },
+  {
+    "name": "Meazel",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "meazel"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 177, mtf 214"
+  },
+  {
+    "name": "Nilbog",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 195, vgm 182"
+  },
+  {
+    "name": "Quasit",
+    "size": "Tiny",
+    "type": "Fiend",
+    "tags": [
+      "demon",
+      " shapechanger"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 63"
+  },
+  {
+    "name": "Thri-kreen",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "thri-kreen"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 288"
+  },
+  {
+    "name": "Xvart Warlock of Raxivort",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "xvart"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "motm 267, vgm 200"
+  },
+  {
+    "name": "Yuan-ti Pureblood",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "1",
+    "xp": 200,
+    "source": "mm 310"
+  },
+  {
+    "name": "Duergar Kavalrachni",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 107, mtf 189"
+  },
+  {
+    "name": "Duergar Mind Master",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 108, mtf 189"
+  },
+  {
+    "name": "Duergar Stone Guard",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 110, mtf 191"
+  },
+  {
+    "name": "Duergar Xarrorn",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 111, mtf 193"
+  },
+  {
+    "name": "Githzerai Monk",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 161"
+  },
+  {
+    "name": "Gnoll Pack Lord",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 163"
+  },
+  {
+    "name": "Grung Elite Warrior",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "grung"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 150, vgm 157"
+  },
+  {
+    "name": "Hobgoblin Iron Shadow",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 154, vgm 162"
+  },
+  {
+    "name": "Lizardfolk Shaman",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "alignment": "N",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 205"
+  },
+  {
+    "name": "Mimic",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "N",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 220"
+  },
+  {
+    "name": "Orc Claw of Luthic",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "vgm 183"
+  },
+  {
+    "name": "Orc Eye of Gruumsh",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 247"
+  },
+  {
+    "name": "Orc Hand of Yurtrus",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "vgm 184"
+  },
+  {
+    "name": "Orog",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 247"
+  },
+  {
+    "name": "Quaggoth",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "quaggoth"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 256"
+  },
+  {
+    "name": "Rutterkin",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 210, mtf 136"
+  },
+  {
+    "name": "Sahuagin Priestess",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 264"
+  },
+  {
+    "name": "Spined Devil",
+    "size": "Small",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 78"
+  },
+  {
+    "name": "Tortle Druid",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "tortle"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 244, mtf 242"
+  },
+  {
+    "name": "Wererat",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human",
+      " shapechanger"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "mm 209"
+  },
+  {
+    "name": "Yuan-ti Broodguard",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "2",
+    "xp": 450,
+    "source": "motm 273, vgm 203"
+  },
+  {
+    "name": "Bearded Devil",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 70"
+  },
+  {
+    "name": "Bugbear Chief",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 33"
+  },
+  {
+    "name": "Bulezau",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "motm 67, mtf 131"
+  },
+  {
+    "name": "Deep Scion",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "motm 88, vgm 135"
+  },
+  {
+    "name": "Derro Savant",
+    "size": "Small",
+    "type": "Humanoid",
+    "tags": [
+      "derro"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "motm 92, mtf 159"
+  },
+  {
+    "name": "Doppelganger",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "N",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 82"
+  },
+  {
+    "name": "Githyanki Warrior",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 160"
+  },
+  {
+    "name": "Hobgoblin Captain",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 186"
+  },
+  {
+    "name": "Merrenoloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "motm 180, mtf 250"
+  },
+  {
+    "name": "Orc Red Fang of Shargaas",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "vgm 185"
+  },
+  {
+    "name": "Quaggoth Thonot",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "quaggoth"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 256"
+  },
+  {
+    "name": "Werewolf",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human",
+      " shapechanger"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 211"
+  },
+  {
+    "name": "Yuan-ti Malison",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "3",
+    "xp": 700,
+    "source": "mm 309"
+  },
+  {
+    "name": "Babau",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 52, vgm 136"
+  },
+  {
+    "name": "Barghest",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 60, vgm 123"
+  },
+  {
+    "name": "Dybbuk",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 113, mtf 132"
+  },
+  {
+    "name": "Gnoll Fang of Yeenoghu",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 163"
+  },
+  {
+    "name": "Hobgoblin Devastator",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 153, vgm 161"
+  },
+  {
+    "name": "Incubus",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 285"
+  },
+  {
+    "name": "Lizard King/Queen",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 205"
+  },
+  {
+    "name": "Merregon",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 179, mtf 166"
+  },
+  {
+    "name": "Orc Blade of Ilneval",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "vgm 183"
+  },
+  {
+    "name": "Orc War Chief",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 246"
+  },
+  {
+    "name": "Shadow Demon",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 64"
+  },
+  {
+    "name": "Succubus",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 285"
+  },
+  {
+    "name": "Wereboar",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human",
+      " shapechanger"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 209"
+  },
+  {
+    "name": "Weretiger",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human",
+      " shapechanger"
+    ],
+    "alignment": "N",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "mm 210"
+  },
+  {
+    "name": "Yuan-ti Mind Whisperer",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 274, vgm 204"
+  },
+  {
+    "name": "Yuan-ti Nightmare Speaker",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "4",
+    "xp": 1100,
+    "source": "motm 275, vgm 205"
+  },
+  {
+    "name": "Barbed Devil",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 70"
+  },
+  {
+    "name": "Barlgura",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 56"
+  },
+  {
+    "name": "Drow Elite Warrior",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 128"
+  },
+  {
+    "name": "Half-Red Dragon Veteran",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human"
+    ],
+    "alignment": "Any",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 180"
+  },
+  {
+    "name": "Mezzoloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 313"
+  },
+  {
+    "name": "Sahuagin Baron",
+    "size": "Large",
+    "type": "Humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 264"
+  },
+  {
+    "name": "Tanarukk",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon",
+      " orc"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "motm 240, vgm 186"
+  },
+  {
+    "name": "Werebear",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "human",
+      " shapechanger"
+    ],
+    "alignment": "NG",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "mm 208"
+  },
+  {
+    "name": "Yuan-ti Pit Master",
+    "size": "Medium",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "5",
+    "xp": 1800,
+    "source": "motm 276, vgm 206"
+  },
+  {
+    "name": "Chasme",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "mm 57"
+  },
+  {
+    "name": "Duergar Warlord",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "motm 111, mtf 192"
+  },
+  {
+    "name": "Githzerai Zerth",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "mm 161"
+  },
+  {
+    "name": "Hobgoblin Warlord",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "mm 187"
+  },
+  {
+    "name": "Kuo-toa Archpriest",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "mm 200"
+  },
+  {
+    "name": "Mouth of Grolantor",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "hill giant"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "motm 187, vgm 149"
+  },
+  {
+    "name": "Vrock",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "mm 64"
+  },
+  {
+    "name": "White Abishai",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "6",
+    "xp": 2300,
+    "source": "motm 41, mtf 163"
+  },
+  {
+    "name": "Armanite",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 50, mtf 131"
+  },
+  {
+    "name": "Black Abishai",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 38, mtf 160"
+  },
+  {
+    "name": "Dhergoloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 94, mtf 248"
+  },
+  {
+    "name": "Draegloth",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 98, vgm 141"
+  },
+  {
+    "name": "Drow Mage",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "mm 129"
+  },
+  {
+    "name": "Maurezhi",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 175, mtf 133"
+  },
+  {
+    "name": "Shadow Dancer",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "N",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "motm 213, mtf 225"
+  },
+  {
+    "name": "Yuan-ti Abomination",
+    "size": "Large",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "7",
+    "xp": 2900,
+    "source": "mm 308"
+  },
+  {
+    "name": "Canoloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "motm 69, mtf 247"
+  },
+  {
+    "name": "Chain Devil",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "mm 72"
+  },
+  {
+    "name": "Drow Priestess of Lolth",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "mm 129"
+  },
+  {
+    "name": "Githyanki Knight",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "mm 160"
+  },
+  {
+    "name": "Green Slaad",
+    "size": "Large",
+    "type": "Aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "mm 277"
+  },
+  {
+    "name": "Hezrou",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "mm 60"
+  },
+  {
+    "name": "Shoosuva",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "8",
+    "xp": 3900,
+    "source": "motm 216, vgm 137"
+  },
+  {
+    "name": "Bone Devil",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "mm 71"
+  },
+  {
+    "name": "Drow House Captain",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "motm 101, mtf 184"
+  },
+  {
+    "name": "Flind",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "motm 127, vgm 153"
+  },
+  {
+    "name": "Glabrezu",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "mm 58"
+  },
+  {
+    "name": "Gloom Weaver",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "N",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "motm 213, mtf 224"
+  },
+  {
+    "name": "Gray Slaad",
+    "size": "Medium",
+    "type": "Aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "mm 277"
+  },
+  {
+    "name": "Hydroloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "motm 158, mtf 249"
+  },
+  {
+    "name": "Nycaloth",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "9",
+    "xp": 5000,
+    "source": "mm 314"
+  },
+  {
+    "name": "Autumn Eladrin",
+    "size": "Medium",
+    "type": "Fey",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 115, mtf 195"
+  },
+  {
+    "name": "Death Slaad",
+    "size": "Medium",
+    "type": "Aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "mm 278"
+  },
+  {
+    "name": "Githyanki Gish",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 140, mtf 205"
+  },
+  {
+    "name": "Githzerai Enlightened",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 143, mtf 208"
+  },
+  {
+    "name": "Orthon",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 205, mtf 169"
+  },
+  {
+    "name": "Spring Eladrin",
+    "size": "Medium",
+    "type": "Fey",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 116, mtf 196"
+  },
+  {
+    "name": "Stone Giant Dreamwalker",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "stone giant"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 234, vgm 150"
+  },
+  {
+    "name": "Summer Eladrin",
+    "size": "Medium",
+    "type": "Fey",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 116, mtf 196"
+  },
+  {
+    "name": "Winter Eladrin",
+    "size": "Medium",
+    "type": "Fey",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "motm 117, mtf 197"
+  },
+  {
+    "name": "Yochlol",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon",
+      " shapechanger"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "10",
+    "xp": 5900,
+    "source": "mm 65"
+  },
+  {
+    "name": "Alkilith",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "motm 44, mtf 130"
+  },
+  {
+    "name": "Cloud Giant Smiling One",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "cloud giant"
+    ],
+    "alignment": "CN",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "motm 81, vgm 146"
+  },
+  {
+    "name": "Drow Shadowblade",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "motm 105, mtf 187"
+  },
+  {
+    "name": "Horned Devil",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "mm 74"
+  },
+  {
+    "name": "Soul Monger",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "N",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "motm 214, mtf 226"
+  },
+  {
+    "name": "Yagnoloth",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "11",
+    "xp": 7200,
+    "source": "motm 268, mtf 252"
+  },
+  {
+    "name": "Arcanaloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "mm 313"
+  },
+  {
+    "name": "Duergar Despot",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "motm 107, mtf 188"
+  },
+  {
+    "name": "Erinyes",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "mm 73"
+  },
+  {
+    "name": "Frost Giant Everlasting One",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "frost giant"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "motm 131, vgm 148"
+  },
+  {
+    "name": "Githyanki Kith'rak",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "motm 140, mtf 205"
+  },
+  {
+    "name": "Oinoloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "motm 202, mtf 251"
+  },
+  {
+    "name": "Yuan-ti Anathema",
+    "size": "Huge",
+    "type": "Monstrosity",
+    "tags": [
+      "shapechanger",
+      " yuan-ti"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "12",
+    "xp": 8400,
+    "source": "motm 272, vgm 202"
+  },
+  {
+    "name": "Drow Arachnomancer",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "motm 99, mtf 182"
+  },
+  {
+    "name": "Nalfeshnee",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "mm 62"
+  },
+  {
+    "name": "Narzugon",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "motm 190, mtf 167"
+  },
+  {
+    "name": "Ultroloth",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "mm 314"
+  },
+  {
+    "name": "Vampire",
+    "size": "Medium",
+    "type": "Undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "mm 297"
+  },
+  {
+    "name": "Wastrilith",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "13",
+    "xp": 10000,
+    "source": "motm 258, mtf 139"
+  },
+  {
+    "name": "Drow Inquisitor",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "14",
+    "xp": 11500,
+    "source": "motm 102, mtf 184"
+  },
+  {
+    "name": "Fire Giant Dreadnought",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "fire giant"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "14",
+    "xp": 11500,
+    "source": "motm 124, vgm 147"
+  },
+  {
+    "name": "Githyanki Supreme Commander",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "14",
+    "xp": 11500,
+    "source": "motm 141, mtf 206"
+  },
+  {
+    "name": "Ice Devil",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "14",
+    "xp": 11500,
+    "source": "mm 75"
+  },
+  {
+    "name": "Green Abishai",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "15",
+    "xp": 13000,
+    "source": "motm 40, mtf 162"
+  },
+  {
+    "name": "Nabassu",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "15",
+    "xp": 13000,
+    "source": "motm 188, mtf 135"
+  },
+  {
+    "name": "Vampire (spellcaster)",
+    "size": "Medium",
+    "type": "Undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "15",
+    "xp": 13000,
+    "source": "mm 297"
+  },
+  {
+    "name": "Vampire (warrior)",
+    "size": "Medium",
+    "type": "Undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "15",
+    "xp": 13000,
+    "source": "mm 297"
+  },
+  {
+    "name": "Githzerai Anarch",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "gith"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "16",
+    "xp": 15000,
+    "source": "motm 142, mtf 207"
+  },
+  {
+    "name": "Marilith",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "16",
+    "xp": 15000,
+    "source": "mm 61"
+  },
+  {
+    "name": "Storm Giant Quintessent",
+    "size": "Huge",
+    "type": "Giant",
+    "tags": [
+      "storm giant"
+    ],
+    "alignment": "CG",
+    "challenge_rating": "16",
+    "xp": 15000,
+    "source": "motm 235, vgm 151"
+  },
+  {
+    "name": "Blue Abishai",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "17",
+    "xp": 18000,
+    "source": "motm 39, mtf 161"
+  },
+  {
+    "name": "Goristro",
+    "size": "Huge",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "17",
+    "xp": 18000,
+    "source": "mm 59"
+  },
+  {
+    "name": "Nagpa",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "nagpa"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "17",
+    "xp": 18000,
+    "source": "motm 189, mtf 215"
+  },
+  {
+    "name": "Amnizu",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "18",
+    "xp": 20000,
+    "source": "motm 46, mtf 164"
+  },
+  {
+    "name": "Drow Favored Consort",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "18",
+    "xp": 20000,
+    "source": "motm 100, mtf 183"
+  },
+  {
+    "name": "Sibriex",
+    "size": "Huge",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "18",
+    "xp": 20000,
+    "source": "motm 217, mtf 137"
+  },
+  {
+    "name": "Balor",
+    "size": "Huge",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "19",
+    "xp": 22000,
+    "source": "mm 55"
+  },
+  {
+    "name": "Red Abishai",
+    "size": "Medium",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "19",
+    "xp": 22000,
+    "source": "motm 40, mtf 162"
+  },
+  {
+    "name": "Drow Matron Mother",
+    "size": "Medium",
+    "type": "Humanoid",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "NE",
+    "challenge_rating": "20",
+    "xp": 25000,
+    "source": "motm 104, mtf 186"
+  },
+  {
+    "name": "Pit Fiend",
+    "size": "Large",
+    "type": "Fiend",
+    "tags": [
+      "devil"
+    ],
+    "alignment": "LE",
+    "challenge_rating": "20",
+    "xp": 25000,
+    "source": "mm 77"
+  },
+  {
+    "name": "Astral Dreadnought",
+    "size": "Gargantuan",
+    "type": "Monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "alignment": "Unaligned",
+    "challenge_rating": "21",
+    "xp": 33000,
+    "source": "motm 51, mtf 117"
+  },
+  {
+    "name": "Molydeus",
+    "size": "Huge",
+    "type": "Fiend",
+    "tags": [
+      "demon"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "21",
+    "xp": 33000,
+    "source": "motm 184, mtf 134"
+  },
+  {
+    "name": "Empyrean",
+    "size": "Huge",
+    "type": "Celestial",
+    "tags": [
+      "titan"
+    ],
+    "alignment": "CG or NE",
+    "challenge_rating": "23",
+    "xp": 50000,
+    "source": "mm 130"
+  },
+  {
+    "name": "Kraken",
+    "size": "Gargantuan",
+    "type": "Monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "alignment": "CE",
+    "challenge_rating": "23",
+    "xp": 50000,
+    "source": "mm 197"
+  },
+  {
+    "name": "Marut",
+    "size": "Large",
+    "type": "Construct",
+    "tags": [
+      "inevitable"
+    ],
+    "alignment": "LN",
+    "challenge_rating": "25",
+    "xp": 75000,
+    "source": "motm 173, mtf 213"
+  },
+  {
+    "name": "Tarrasque",
+    "size": "Gargantuan",
+    "type": "Monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "alignment": "Unaligned",
+    "challenge_rating": "30",
+    "xp": 155000,
+    "source": "mm 286"
+  }
+]

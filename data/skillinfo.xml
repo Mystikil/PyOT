@@ -1,0 +1,14 @@
+<skills>
+  <skill id="0" name="Fist" color="#FFFFFF" />
+  <skill id="1" name="Club" color="#FFAA00" />
+  <skill id="2" name="Sword" color="#FF0000" />
+  <skill id="3" name="Axe" color="#880000" />
+  <skill id="4" name="Distance" color="#00AAFF" />
+  <skill id="5" name="Shielding" color="#AAAAAA" />
+  <skill id="6" name="Fishing" color="#00FF00" />
+  <skill id="7" name="Alchemy" color="#00FFFF" />
+  <skill id="8" name="Discipline" color="#FF00FF" />
+  <skill id="9" name="Dexterity" color="#FFFF00" />
+  <skill id="10" name="Spellweaving" color="#AA00FF" />
+  <skill id="11" name="Heavy Weapons" color="#FF5555" />
+</skills>
