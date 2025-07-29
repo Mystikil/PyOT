@@ -59,9 +59,8 @@ pip3 install pymysql
 Documentation
 =============
 
-You can find additional documentation of PyOT here: http://vapus.net/pyot_doc/index.html
+You can find additional documentation of PyOT here: https://devnexus.online/pyot/
 
-Useful scripting guide here: http://vapus.net/pyot_doc/scriptevents.html
 
 Testing
 -------
